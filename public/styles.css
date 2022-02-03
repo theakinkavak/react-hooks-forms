@@ -1,0 +1,31 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.font-size {
+    font-size: larger;
+}
+
+.subscribe-checkbox {
+    width: 300px;
+    background-color: orange;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+
+}
+
+.uppercase-checkbox {
+    padding: 0 100px;
+    width: 300px;
+    background-color: orange;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+}
+
+.upperCase {
+    text-transform: uppercase;
+}
